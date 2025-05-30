@@ -16,43 +16,43 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "authorName": "Kyla Smith",
-  "authorFB": "https://www.facebook.com/alvarezyhana997",
+  "authorName": "Thea Starliness",
+  "authorFB": "https://www.facebook.com/Thea.Starliness",
   "API": {
     "DIPTO": "https://noobs-api.onrender.com/dipto",
     "SAMIR": "https://apis-samir.onrender.com",
     "RUBISH": "https://rubish-apihub.onrender.com/rubish"
   },
   "nickNameBot": "『 - 』 John bot",
-  "prefix": "-",
+  "prefix": "@",
   "vipUser": [
-    "100063138152006",
-    "100056093558255",
-    "61575881096143"
+    "61555882584314",
+    "100066731134942",
+    ""
   ],
   "orgDEV": [
-    "61564459952029",
+    "100066731134942",
     "",
     ""
   ],
   "adminBot": [
-    "100063138152006",
-    "61575608187669",
-    "61575881096143"
+    "100066731134942",
+    "61555882584314",
+    ""
   ],
 "nisanBot": [
-    "100063138152006"
+    "100066731134942"
   ],
 
   "rubishapi": "https://rubish-apihub.onrender.com/rubish",
   "diptoapi": "https://d1pt0-call-bomber.onrender.com/dipto?",
   "GOD": [
-    "100063138152006",
+    "100066731134942",
     "",
     ""
   ],
   "DEV": [
-    "100063138152006",
+    "100066731134942",
     "",
     "l"
   ],
